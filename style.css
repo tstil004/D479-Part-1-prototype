@@ -1,0 +1,58 @@
+body {
+    background-image: url('beach.jpg');
+background-size: cover; 
+font-size: 22px;
+margin:0;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+text-align: top;
+
+}
+
+header { 
+    size-adjust: 20pt;
+text-align: center;
+background-image:linear-gradient(to left, rgba(0,0,0,.5),
+    rgba(0,0,0,.2));
+
+}
+
+nav {
+    font-size: 26px;
+   
+}
+
+nav ul li a:hover {
+
+    color:black;
+}
+
+nav li a {
+    text-decoration: none;
+    color:white;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 60px;
+}
+
+section {
+    margin-top: 20pt;
+    width:100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 26px;
+    line-height: 2;
+    background-image:linear-gradient(to right, rgba(0,0,0,.5),
+    rgba(0,0,0,.4));
+   
+}
+
+footer {
+    text-align: center;
+    background-image:linear-gradient(to right, rgba(0,0,0,.5),
+    rgba(0,0,0,.4));
+
+}
