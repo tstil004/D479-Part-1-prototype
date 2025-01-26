@@ -37,7 +37,9 @@ nav ul li {
     display: inline-block;
     margin-right: 60px;
 }
-
+.question {
+    color: blue;
+}
 section {
     margin-top: 20pt;
     width:100%;
